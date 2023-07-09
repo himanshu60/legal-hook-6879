@@ -1,3 +1,3 @@
-# legal-hook-6879:::
+# legal-hook-6879:
 
 
