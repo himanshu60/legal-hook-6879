@@ -50,16 +50,6 @@ var zeeOriginalData=[
         moviename:"RannaGhar",
         
     },
-
-
-
-
-
-
-
-
-
-
     {
         img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-4z541514/portrait/1920x770a7f0b1b166ad4c27b6ccaeb8eec085ba.jpg",
         moviename:"Pilu",

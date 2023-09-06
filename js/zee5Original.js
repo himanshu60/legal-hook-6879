@@ -1,18 +1,18 @@
 var moviesData=[
     {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x77069dfde7f955d4ef69e73c3b682aa636b.jpg",
-        name:"Raksha bandan",
-        cat: "Action"
+        img_url:"https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-96839/portrait/1920x7707c4220749d764d0fbbf4dc8b263d261b.jpg",
+        name:"Dream Girl",
+        cat: "Comedy"
     },
     
     {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-4z560880/portrait/1920x7707e8711f6ada54ede80bd6c1fd7e5f289.jpg",
-        name:"Kaun Banegi Shikharwati",
-        cat: "Comedy"
+        img_url:"https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5277764/portrait/1920x770ca996c2be8bf4d3d9aa8ec6c86f3927e.jpg",
+        name:"Enemy",
+        cat: "Action"
     },
     {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-3284/portrait/1920x77042e27986e8a34d8babc022e2285e4b3107b9f350f5b6426f9c1ba7409f59728a.jpg",
-        name:"Sunflower",
+        img_url:"https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-1z5228525/portrait/1920x770e10444b260b14b4da532489864cf2bac.jpg",
+        name:"Raksha Bandan",
         cat: "Comedy"
     },
     {

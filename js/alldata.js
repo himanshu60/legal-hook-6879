@@ -212,8 +212,8 @@ allData = [
     },
     
     {
-        img_url:"https://akamaividz2.zee5.com/image/upload/w_321,h_482,c_scale,f_webp,q_auto:eco,dpr_2.0/resources/0-6-4z560880/portrait/1920x7707e8711f6ada54ede80bd6c1fd7e5f289.jpg",
-        name:"Kaun Banegi Shikharwati",
+        img_url:"https://akamaividz2.zee5.com/image/upload/w_231,h_347,c_scale,f_webp,q_auto:eco/resources/0-0-96839/portrait/1920x7707c4220749d764d0fbbf4dc8b263d261b.jpg",
+        name:"Dream Girl",
         
     },
     {
