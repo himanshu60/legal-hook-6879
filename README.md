@@ -1,4 +1,4 @@
-# Zee5 Clone:
+# Zee5 Clone::
 Zee5 is a fantastic online platform where you can watch all your favourite movies and TV shows. It's like a treasure trove of entertainment right at your fingertips. With a wide variety of content to choose from, you can enjoy hours of non-stop fun and excitement. So, why wait? Dive into the world of Zee5 and let the entertainment begin!
 
 ## Deployed Link: https://prismatic-raindrop-8d1a7e.netlify.app/
